@@ -1,9 +1,12 @@
 <!-- ====================== Hero Section ====================== -->
-<h1 align="center">👋 Hi, I'm Santhosh K!</h1>
-<h3 align="center">A Passionate Full-Stack Developer | Open Source Enthusiast 🚀</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
-</p>
+<h1 align="center">Hi, I'm Santhosh K!</h1>
+<h3 align="center">Full-Stack Developer | Open Source Enthusiast 🚀</h3>
+
+---
+
+<!-- ====================== About Me ====================== -->
+### 👨‍💻 About Me
+I am a passionate developer with experience in building web applications using **Python, JavaScript, React, and Node.js**. I enjoy working on open-source projects and learning new technologies to improve my skills.
 
 ---
 
@@ -22,13 +25,14 @@
 
 <!-- ====================== GitHub Stats ====================== -->
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanthoshK&show_icons=true&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshK&layout=compact&theme=radical&hide_border=true"/>
+<p align="center" ml-10px>
+  <!-- General GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Santhoshkailasam&show_icons=true&theme=radical&hide_border=true" />&nbsp;&nbsp;&nbsp;
+
+  <!-- Top languages used -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshkailasam&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanthoshK&theme=radical)
 
 ---
-
 
