@@ -1,6 +1,6 @@
 <!-- ====================== Hero Section ====================== -->
-<h1 align="center">Hi, I'm Santhosh K!</h1>
-<h3 align="center">Full-Stack Developer | Open Source Enthusiast 🚀</h3>
+<h1 align="center">Hi, I'm Kailasam N!</h1>
+<h3 align="center">Web Designer & Developer🚀</h3>
 
 ---
 
