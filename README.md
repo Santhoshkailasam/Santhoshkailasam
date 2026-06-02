@@ -20,31 +20,24 @@
 
 # 🚀 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```yaml
-Name: Kailasam N
-Role: Full Stack Developer
-Location: Chennai, India
-Languages:
-  - JavaScript
-  - TypeScript
-  - Python
-Frontend:
-  - React
-  - Vite
-  - Tailwind
-Backend:
-  - Node.js
-  - Express.js
-Database:
-  - MongoDB
-  - MySQL
-Current Focus:
-  - React Native
-  - Cloud Computing
-  - AI Applications
-```
+### 👋 Hi, I'm Kailasam N
+
+💼 Full Stack Developer
+
+📍 Chennai, India
+
+🚀 Passionate about building scalable web applications
+
+🌱 Currently learning React Native, AWS & AI
+
+### Tech Focus
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
 
 ### 💡 What I Do
 
