@@ -112,11 +112,8 @@ Current Focus:
 ---
 
 # 🏆 GitHub Achievements
-
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Santhoshkailasam&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Santhoshkailasam&theme=tokyonight"/>
 </div>
 
 ---
@@ -159,9 +156,7 @@ Current Focus:
 # 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Santhoshkailasam/Santhoshkailasam/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/Santhoshkailasam/Santhoshkailasam/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
